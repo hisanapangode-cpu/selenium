@@ -1,0 +1,14 @@
+package Inheritance;
+
+public class Android {
+	
+	String android_version;
+	public String getAndroid_version() {
+		return android_version;
+	}
+	public void setAndroid_version(String andrroid_version) {
+		this.android_version = android_version;
+	
+	}
+
+}
